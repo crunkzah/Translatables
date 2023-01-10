@@ -1,6 +1,6 @@
 # Lightweight library that allows easily change language using ScriptableObject.
 
-!(qwe.PNG)
+![](qwe.PNG)
 
 ## Prerequisites: TextMeshPro and Unity
 
