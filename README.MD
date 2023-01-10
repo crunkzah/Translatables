@@ -9,7 +9,7 @@ Consists of 3 (2 runtime and 1 editor) scripts:
 2. TranslatableText.cs   (ScriptableObject)
 3. TranslatableEditor.cs (Editor)
 
-## Launch a demo scene "TranslatableSampleScene".
+## Launch a beautiful demo scene "TranslatableSampleScene" to see lib in action
 
 ### Usage:
 * Add *Translatable* on *GameObject* that has either *TextMeshProUGUI* or *TextMeshPro* component 
